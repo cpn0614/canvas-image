@@ -1,0 +1,22 @@
+.fileup .fileup-label {
+  display: inline-block;
+  /* width: 120px; */
+  /* height: 40px; */
+  padding: 8px 20px;
+  background-color: #197ace;
+  color: #fff;
+  border: 1px solid #197ace;
+  border-radius: 10px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.fileup .fileup-label:hover {
+  opacity: 1;
+}
+
+.fileup .fileup-input {
+  display: none;
+}
